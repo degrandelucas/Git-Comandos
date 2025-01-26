@@ -66,4 +66,4 @@ Após realizar esse procedimento, será possível sincronizar o repositório loc
   
 ## Autor
 
-- **Lucas Degrande** - [GitHub](https://github.com/degrandelucas) - [LinkedIn](https://www.linkedin.com/in/lucasdegrande/)
+- ***Lucas Degrande*** - [GitHub](https://github.com/degrandelucas) - [LinkedIn](https://www.linkedin.com/in/lucasdegrande/)
